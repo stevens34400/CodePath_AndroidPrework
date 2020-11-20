@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](AndroidPrework_Demo.gif)
+<img src="https://github.com/stevens34400/CodePath_AndroidPrework/blob/master/AndroidPrework_Demo.gif" width="250" height="250"/>
 
 GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
