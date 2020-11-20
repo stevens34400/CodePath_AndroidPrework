@@ -18,11 +18,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Noteworthy issues include making sure the list item model persisted upon app restart. Local file was not able to save written items upon initial implementation. 
 
 ## License
 
