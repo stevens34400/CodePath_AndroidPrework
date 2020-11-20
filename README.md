@@ -18,13 +18,20 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/stevens34400/CodePath_AndroidPrework/blob/master/AndroidPrework_Demo.gif" width="250" height="450"/>
+### Viewing and adding items on todo list
+<img src="https://github.com/stevens34400/CodePath_AndroidPrework/blob/master/Demo_gifs/View_Add_Items.gif" width="250" height="450"/>
+
+### Removing items on todo list
+<img src="https://github.com/stevens34400/CodePath_AndroidPrework/blob/master/Demo_gifs/Remove_Items.gif" width="250" height="450"/>
+
+### Data persisted after app restart
+<img src="https://github.com/stevens34400/CodePath_AndroidPrework/blob/master/Demo_gifs/DataPersistence.gif" width="250" height="450"/>
 
 GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
-Noteworthy issues include making sure the list item model persisted upon app restart. Local file was not able to save written items upon initial implementation. 
+Noteworthy issues include making sure the list item model persisted upon app restart. Local file was not able to save written items upon initial implementation. Implementation of code can be found through the [android prework guide](https://courses.codepath.org/snippets/android_university/prework)
 
 ## License
 
