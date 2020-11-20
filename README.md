@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![](AndroidPrework_Demo.gif)
+
 GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
